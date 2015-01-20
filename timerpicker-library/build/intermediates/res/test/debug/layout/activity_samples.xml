@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Hello World, bleh"
+    />
+</LinearLayout>
+
+<!-- From: file:/C:/Users/12241357/Downloads/pickers/timerpicker-library/src/main/res/layout/activity_samples.xml --><!-- From: file:/C:/Users/12241357/Downloads/pickers/timerpicker-library/build/intermediates/bundles/debug/res/layout/activity_samples.xml -->

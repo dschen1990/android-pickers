@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="datePickerStyle">@style/Widget.Holo.DatePicker</item>
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+        <item name="android:textColorHighlight">#2FB2E3</item>
+    </style>
+
+</resources>
